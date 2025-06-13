@@ -1,0 +1,2 @@
+Fecha y hora: {Fecha_y_Hora} horas
+Descripción: Se realiza ping al equipo conforme evidencia adjunta
